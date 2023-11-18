@@ -1,0 +1,2 @@
+# BASICS-
+Code for JavaScript
